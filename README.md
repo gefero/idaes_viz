@@ -24,36 +24,65 @@ Los objetivos principales del curso son que les estudantes
 Vale aclarar que no se trata de un curso de capacitación en R, sino que el lenguaje será utilizado como herramienta para generar visualizaciones de forma replicable. 
 
 ## Contenidos y materiales
-- __Módulo 0.__ Introducción rápida a R.
-- [](/clase0/notebook/)
-
-- __Módulo 1.__ 
-[](/clase1/notebook/)
-
-- __Módulo 2.__ 
-[](/clase2/notebook/)
-
-- __Módulo 3.__ 
-[](/clase3/notebook/)
-
-- __Módulo 4.__ 
-[](/clase4/notebook/)
+- __Clase 1.__  Explorando los datos. Introducción a R y al tidyverse. Nociones conceptuales: forma, color, tamaño, color. Sobre la percepción y su relación con la visualización. ¿Cómo reconocer una mala visualización?
+		
+- __Clase 2.__ Traduciendo los datos a elementos visuales. Gramática de gráficos. Nociones de datos ordenados (tidy data). Introducción a ggplot. Geometrías, estéticas, capas y facetados. 
 
 
-## Librerías a utilizar
-El taller se desarrollará en R y se hará un uso extensivo de las siguientes librerías:
+- __Clase 3.__ Puliendo los gráficos. Leyendas, líneas de tendencia, modificando ejes.
 
-- `tidyverse`
+- __Clase 4.__ Mapeando datos. Nociones sobre cartografía (proyecciones, sistemas de coordenadas). Coropletas, cartogramas y afines. ¿Cuántas variables pueden representarse en un mapa? 
 
-Pueden instalarse utilizando las instrucciones:
+- __Clase 5.__ Visualizando modelos. Repaso de regresión lineal y logística. ¿Cómo salir de las tablas de coeficientes? La post-estimación como herramienta para visualizar efectos. Introducción a broom. 
 
-```{r}
-install.packages('tidyverse')  
+
+## Software a utilizar
+Todas el trabajo en clase se hará utilizando el lenguaje R. Se usará RStudio para administrar el código y los proyectos.
+
+Para instalar R:
+Instalar la versión más reciente de R. R es libre para sistemas operativos basados en Windows, Mac y Linux. Descargar la versión de R compatible con su sistema operativo. 
+Una vez que R está instalado, descargar e instalar RStudio. RStudio es una interfaz gráfica (o IDE) que ayuda a administrar el código, los datos y los proyectos. Es decir, hace a R mucho más fácil de usar. RStudio también es gratis y está disponible para plataformas Windows, Mac y Linux.
+Instalar las librerías a utilizar en el curso (tidyverse y otras).Estas librerías proveen funciones sumamente útiles que nos servirán a lo largo del curso. Para instalar tidyverse, deberán asegurarse de estar conectados a internet y abrir RStudio. Luego, en la línea de comando de RStudio (en el panel llamado "Console") tipear las siguientes líneas y presionar Enter:
+
+
+```
+my_packages <- c("tidyverse", "broom", "cowplot", "drat",
+                 "gapminder", "GGally", "ggforce", "ggrepel", "ggridges", 
+                 "gridExtra", "here", "interplot", "margins", "maps",
+                 "mapproj", "mapdata", "MASS", "quantreg", "rlang",
+                 "scales","survey", "srvyr", "devtools")
+
+install.packages(my_packages, repos = "http://cran.rstudio.com")
+
 ```
 
 
+RStudio comenzará a bajar e instalar los paquetes. Esto podría tardar un rato.
+
+## Dinámica de las clases 
+Las clases constan de dos partes: 
+
+- exposición teórica a cargo del docente 
+- práctica guiada realizada en conjunto
+
+Al finalizar la clase, se asignan consignas de ejercicios que deberán ser resueltas para la clase siguiente.
+
+
+## Condiciones de aprobación y modalidad de evaluación
+- 80% de asistencia a las clases (en modalidad virtual sincrónica)
+- Exposición oral grupal de la resolución de al menos una guía de consignas de ejercicios 
+- Entrega y aprobación de un trabajo final monográfico
+
 ## Bibliografía y sitios de consulta
 
-- TUFTE
-- Healy
-- [Molnar, C. (2020), _Interpretable Machine Learning. A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/)
+- Healy, Kieran (2019). Data Visualization: A Practical Introduction, Princeton: Princeton University Press. 
+[Versión online borador gratis.](http://socviz.co/)
+
+- Wickham, Hadley y Grolemund, Garret (2017). R for Data Science Import, Tidy, Transform, Visualize, and Model Data, California: O’Reilly Media. 
+[Versión online gratis en castellano.](https://es.r4ds.hadley.nz/)
+[Versión online gratis en inglés.](http://r4ds.had.co.nz/)
+
+- Tufte, Edward (1983). The Visual Display of Quantitative Information, Cheshire, CT: Graphics Press.
+
+- [Vázquez Brust, Antonio (2020). Ciencia de datos para gente sociable](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/)
+
