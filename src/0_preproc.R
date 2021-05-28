@@ -2,7 +2,7 @@ library(tidyverse)
 library(lubridate)
 library(sf)
 
-df <- read_csv('./data/raw/Covid19Casos.csv')
+df <- read_csv('./data/raw/Covid19Casos.zip')
 
 # df <- df %>%
 #         mutate(across(starts_with('fecha_'), ymd))
