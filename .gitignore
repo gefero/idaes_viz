@@ -1,5 +1,5 @@
 # Local folders
-/data/
+/data/raw
 
 # Local files
 /data/proc/data_covid.rds
