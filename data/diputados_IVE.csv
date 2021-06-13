@@ -1,0 +1,257 @@
+ID,genero,edad,provincia,bloque,votacion_final1,region
+2,Mujer,72,santiago del estero,FDT,negativo,NOA
+3,Varón,57,buenos aires,JxC y aliados,negativo,Buenos Aires
+4,Varón,65,san juan,FDT,negativo,Cuyo
+5,Varón,39,san luis,FDT,negativo,Cuyo
+6,Varón,40,la rioja,resto y provinciales,negativo,NOA
+7,Varón,62,tucuman,JxC y aliados,negativo,NOA
+8,Varón,43,santa fe,JxC y aliados,negativo,Centro
+9,Varón,49,buenos aires,resto y provinciales,negativo,Buenos Aires
+10,Varón,45,formosa,resto y provinciales,negativo,NEA
+11,Mujer,69,tucuman,resto y provinciales,negativo,NOA
+12,Varón,78,buenos aires,JxC y aliados,negativo,Buenos Aires
+13,Mujer,54,tucuman,resto y provinciales,negativo,NOA
+14,Mujer,67,chaco,resto y provinciales,negativo,NEA
+15,Varón,54,cordoba,JxC y aliados,negativo,Centro
+16,Varón,42,la pampa,resto y provinciales,negativo,Patagonia
+17,Varón,50,buenos aires,JxC y aliados,negativo,Buenos Aires
+18,Mujer,48,tierra del fuego,FDT,negativo,Patagonia
+19,Mujer,40,corrientes,JxC y aliados,negativo,NEA
+20,Varón,76,catamarca,resto y provinciales,negativo,NOA
+21,Varón,56,santiago del estero,FDT,negativo,NOA
+22,Mujer,49,jujuy,resto y provinciales,negativo,NOA
+23,Varón,50,formosa,resto y provinciales,negativo,NEA
+24,Mujer,67,buenos aires,resto y provinciales,negativo,Buenos Aires
+25,Mujer,63,buenos aires,JxC y aliados,negativo,Buenos Aires
+26,Varón,62,buenos aires,JxC y aliados,negativo,Buenos Aires
+27,Varón,55,tucuman,resto y provinciales,negativo,NOA
+28,Varón,38,santa cruz,resto y provinciales,negativo,Patagonia
+29,Mujer,43,cordoba,resto y provinciales,negativo,Centro
+30,Varón,55,la rioja,FDT,negativo,NOA
+31,Mujer,54,san juan,FDT,negativo,Cuyo
+32,Varón,41,cordoba,resto y provinciales,negativo,Centro
+33,Mujer,47,santa fe,JxC y aliados,negativo,Centro
+34,Varón,73,chaco,resto y provinciales,negativo,NEA
+35,Varón,48,santa fe,resto y provinciales,negativo,Centro
+36,Mujer,69,salta,JxC y aliados,negativo,NOA
+37,Mujer,48,entre rios,FDT,negativo,Centro
+38,Mujer,71,formosa,FDT,negativo,NEA
+39,Varón,54,mendoza,JxC y aliados,negativo,Cuyo
+40,Mujer,45,cordoba,JxC y aliados,negativo,Centro
+41,Varón,73,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
+42,Varón,60,mendoza,FDT,negativo,Cuyo
+43,Varón,42,buenos aires,JxC y aliados,negativo,Buenos Aires
+44,Varón,46,formosa,FDT,negativo,NEA
+45,Varón,64,buenos aires,FDT,negativo,Buenos Aires
+46,Varón,50,la rioja,FDT,negativo,NOA
+47,Varón,67,buenos aires,JxC y aliados,negativo,Buenos Aires
+48,Mujer,59,entre rios,JxC y aliados,negativo,Centro
+49,Varón,52,cordoba,JxC y aliados,negativo,Centro
+50,Mujer,55,catamarca,FDT,negativo,NOA
+51,Varón,71,san juan,FDT,negativo,Cuyo
+52,Varón,62,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
+53,Varón,61,salta,JxC y aliados,negativo,NOA
+54,Varón,67,cordoba,resto y provinciales,negativo,Centro
+55,Varón,48,entre rios,JxC y aliados,negativo,Centro
+56,Varón,51,santiago del estero,FDT,negativo,NOA
+57,Mujer,49,corrientes,JxC y aliados,negativo,NEA
+58,Varón,57,cordoba,JxC y aliados,negativo,Centro
+59,Varón,48,santa fe,JxC y aliados,negativo,Centro
+60,Mujer,37,santa fe,JxC y aliados,negativo,Centro
+61,Varón,57,chaco,FDT,negativo,NEA
+62,Varón,66,catamarca,JxC y aliados,negativo,NOA
+63,Varón,32,la pampa,JxC y aliados,negativo,Patagonia
+64,Mujer,51,cordoba,resto y provinciales,negativo,Centro
+65,Varón,60,jujuy,FDT,negativo,NOA
+66,Mujer,70,cordoba,JxC y aliados,negativo,Centro
+67,Mujer,38,santa fe,FDT,negativo,Centro
+68,Mujer,47,tucuman,FDT,negativo,NOA
+69,Varón,35,buenos aires,JxC y aliados,negativo,Buenos Aires
+70,Varón,42,cordoba,resto y provinciales,negativo,Centro
+71,Varón,56,jujuy,JxC y aliados,negativo,NOA
+72,Mujer,68,santiago del estero,FDT,negativo,NOA
+73,Mujer,48,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
+74,Varón,58,chaco,FDT,negativo,NEA
+75,Mujer,70,chubut,FDT,negativo,Patagonia
+76,Varón,43,salta,resto y provinciales,negativo,NOA
+77,Mujer,62,santiago del estero,FDT,negativo,NOA
+78,Mujer,63,santiago del estero,FDT,negativo,NOA
+79,Varón,46,santa fe,JxC y aliados,negativo,Centro
+80,Mujer,47,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
+81,Varón,45,san juan,resto y provinciales,negativo,Cuyo
+82,Mujer,42,formosa,FDT,negativo,NEA
+83,Varón,68,misiones,resto y provinciales,negativo,NEA
+84,Mujer,67,chaco,FDT,negativo,NEA
+85,Varón,43,mendoza,resto y provinciales,negativo,Cuyo
+86,Mujer,40,buenos aires,JxC y aliados,negativo,Buenos Aires
+87,Mujer,68,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
+88,Varón,56,mendoza,resto y provinciales,negativo,Cuyo
+89,Mujer,50,corrientes,resto y provinciales,negativo,NEA
+90,Mujer,55,santa cruz,resto y provinciales,negativo,Patagonia
+91,Mujer,33,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
+92,Varón,54,buenos aires,JxC y aliados,negativo,Buenos Aires
+93,Varón,55,buenos aires,resto y provinciales,negativo,Buenos Aires
+94,Varón,62,corrientes,FDT,negativo,NEA
+95,Varón,57,cordoba,resto y provinciales,negativo,Centro
+96,Mujer,31,san luis,FDT,negativo,Cuyo
+97,Mujer,51,cordoba,JxC y aliados,negativo,Centro
+98,Varón,64,la rioja,JxC y aliados,negativo,NOA
+99,Varón,47,neuquen,JxC y aliados,negativo,Patagonia
+100,Mujer,56,corrientes,FDT,negativo,NEA
+101,Mujer,68,neuquen,resto y provinciales,negativo,Patagonia
+102,Varón,61,misiones,resto y provinciales,negativo,NEA
+103,Mujer,44,santa fe,JxC y aliados,negativo,Centro
+104,Varón,57,misiones,JxC y aliados,negativo,NEA
+105,Varón,50,neuquen,JxC y aliados,negativo,Patagonia
+106,Varón,62,buenos aires,FDT,negativo,Buenos Aires
+107,Varón,61,tierra del fuego,JxC y aliados,negativo,Patagonia
+108,Mujer,68,chaco,JxC y aliados,negativo,NEA
+109,Varón,66,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
+110,Varón,61,buenos aires,JxC y aliados,negativo,Buenos Aires
+111,Varón,32,chubut,JxC y aliados,negativo,Patagonia
+112,Varón,64,ciudad autonoma de buenos aires,FDT,negativo,CABA
+113,Varón,64,corrientes,resto y provinciales,negativo,NEA
+114,Mujer,63,cordoba,resto y provinciales,negativo,Centro
+115,Mujer,41,buenos aires,JxC y aliados,negativo,Buenos Aires
+116,Varón,58,misiones,resto y provinciales,negativo,NEA
+117,Varón,38,mendoza,resto y provinciales,negativo,Cuyo
+118,Varón,59,salta,resto y provinciales,negativo,NOA
+119,Varón,45,san juan,JxC y aliados,negativo,Cuyo
+120,Varón,70,buenos aires,FDT,negativo,Buenos Aires
+121,Mujer,60,la rioja,FDT,positivo,NOA
+122,Varón,68,buenos aires,FDT,positivo,Buenos Aires
+123,Mujer,51,buenos aires,FDT,positivo,Buenos Aires
+124,Mujer,66,buenos aires,FDT,positivo,Buenos Aires
+125,Mujer,39,cordoba,resto y provinciales,positivo,Centro
+126,Mujer,48,buenos aires,resto y provinciales,positivo,Buenos Aires
+127,Varón,65,buenos aires,resto y provinciales,positivo,Buenos Aires
+128,Varón,65,entre rios,resto y provinciales,positivo,Centro
+129,Varón,57,mendoza,FDT,positivo,Cuyo
+130,Mujer,60,buenos aires,FDT,positivo,Buenos Aires
+131,Varón,63,santa fe,FDT,positivo,Centro
+132,Varón,45,buenos aires,FDT,positivo,Buenos Aires
+133,Varón,58,ciudad autonoma de buenos aires,FDT,positivo,CABA
+134,Mujer,39,misiones,FDT,positivo,NEA
+135,Varón,41,buenos aires,resto y provinciales,positivo,Buenos Aires
+136,Varón,35,san luis,resto y provinciales,positivo,Cuyo
+137,Mujer,38,buenos aires,JxC y aliados,positivo,Buenos Aires
+138,Mujer,43,salta,FDT,positivo,NOA
+139,Varón,59,santa fe,resto y provinciales,positivo,Centro
+140,Mujer,64,tierra del fuego,FDT,positivo,Patagonia
+141,Varón,46,neuquen,FDT,positivo,Patagonia
+142,Mujer,54,ciudad autonoma de buenos aires,resto y provinciales,positivo,CABA
+143,Mujer,41,tucuman,FDT,positivo,NOA
+144,Varón,55,cordoba,FDT,positivo,Centro
+145,Varón,53,entre rios,FDT,positivo,Centro
+146,Mujer,55,ciudad autonoma de buenos aires,FDT,positivo,CABA
+147,Varón,58,tucuman,FDT,positivo,NOA
+148,Varón,38,santa fe,FDT,positivo,Centro
+149,Mujer,61,catamarca,FDT,positivo,NOA
+150,Varón,56,buenos aires,FDT,positivo,Buenos Aires
+151,Varón,30,buenos aires,JxC y aliados,positivo,Buenos Aires
+152,Varón,70,santiago del estero,FDT,positivo,NOA
+153,Varón,48,ciudad autonoma de buenos aires,resto y provinciales,positivo,CABA
+154,Varón,40,buenos aires,resto y provinciales,positivo,Buenos Aires
+155,Varón,77,santa fe,resto y provinciales,positivo,Centro
+156,Mujer,44,la pampa,FDT,positivo,Patagonia
+157,Varón,66,rio negro,resto y provinciales,positivo,Patagonia
+158,Varón,37,santa fe,resto y provinciales,positivo,Centro
+159,Mujer,42,cordoba,FDT,positivo,Centro
+160,Varón,29,buenos aires,FDT,positivo,Buenos Aires
+161,Varón,61,buenos aires,resto y provinciales,positivo,Buenos Aires
+162,Varón,68,cordoba,FDT,positivo,Centro
+163,Varón,45,ciudad autonoma de buenos aires,JxC y aliados,positivo,CABA
+164,Mujer,61,salta,FDT,positivo,NOA
+165,Mujer,62,buenos aires,JxC y aliados,positivo,Buenos Aires
+166,Varón,33,tierra del fuego,JxC y aliados,positivo,Patagonia
+167,Mujer,39,entre rios,FDT,positivo,Centro
+168,Varón,40,buenos aires,JxC y aliados,positivo,Buenos Aires
+169,Varón,53,ciudad autonoma de buenos aires,JxC y aliados,positivo,CABA
+170,Mujer,31,santa fe,resto y provinciales,positivo,Centro
+171,Varón,58,buenos aires,resto y provinciales,positivo,Buenos Aires
+172,Varón,38,salta,FDT,positivo,NOA
+173,Mujer,44,santa fe,FDT,positivo,Centro
+174,Varón,52,santa cruz,FDT,positivo,Patagonia
+175,Varón,37,buenos aires,FDT,positivo,Buenos Aires
+176,Varón,28,san juan,FDT,positivo,Cuyo
+177,Varón,53,buenos aires,FDT,positivo,Buenos Aires
+178,Varón,37,ciudad autonoma de buenos aires,FDT,positivo,CABA
+179,Varón,80,ciudad autonoma de buenos aires,FDT,positivo,CABA
+180,Mujer,66,chubut,FDT,positivo,Patagonia
+181,Varón,63,ciudad autonoma de buenos aires,JxC y aliados,positivo,CABA
+182,Varón,43,chubut,FDT,positivo,Patagonia
+183,Mujer,38,buenos aires,JxC y aliados,positivo,Buenos Aires
+184,Varón,43,buenos aires,FDT,positivo,Buenos Aires
+185,Varón,55,buenos aires,FDT,positivo,Buenos Aires
+186,Varón,56,entre rios,resto y provinciales,positivo,Centro
+187,Mujer,38,buenos aires,FDT,positivo,Buenos Aires
+188,Mujer,68,rio negro,FDT,positivo,Patagonia
+189,Mujer,34,mendoza,resto y provinciales,positivo,Cuyo
+190,Varón,56,tucuman,FDT,positivo,NOA
+191,Mujer,54,entre rios,resto y provinciales,positivo,Centro
+192,Varón,51,catamarca,FDT,positivo,NOA
+193,Mujer,41,buenos aires,FDT,positivo,Buenos Aires
+194,Varón,37,ciudad autonoma de buenos aires,JxC y aliados,positivo,CABA
+195,Mujer,43,buenos aires,JxC y aliados,positivo,Buenos Aires
+196,Mujer,48,buenos aires,FDT,positivo,Buenos Aires
+197,Varón,33,santa fe,resto y provinciales,positivo,Centro
+198,Varón,45,santa fe,FDT,positivo,Centro
+199,Mujer,42,ciudad autonoma de buenos aires,resto y provinciales,positivo,CABA
+200,Mujer,65,buenos aires,FDT,positivo,Buenos Aires
+201,Varón,45,ciudad autonoma de buenos aires,FDT,positivo,CABA
+202,Mujer,36,chaco,FDT,positivo,NEA
+203,Mujer,41,rio negro,resto y provinciales,positivo,Patagonia
+204,Mujer,28,buenos aires,resto y provinciales,positivo,Buenos Aires
+205,Varón,55,chubut,resto y provinciales,positivo,Patagonia
+206,Mujer,45,jujuy,FDT,positivo,NOA
+207,Mujer,45,misiones,resto y provinciales,positivo,NEA
+208,Mujer,44,buenos aires,FDT,positivo,Buenos Aires
+209,Varón,74,buenos aires,FDT,positivo,Buenos Aires
+210,Mujer,57,santa fe,FDT,positivo,Centro
+211,Varón,36,buenos aires,FDT,positivo,Buenos Aires
+212,Mujer,58,mendoza,resto y provinciales,positivo,Cuyo
+213,Varón,66,cordoba,resto y provinciales,positivo,Centro
+214,Mujer,42,santa fe,FDT,positivo,Centro
+215,Mujer,60,buenos aires,JxC y aliados,positivo,Buenos Aires
+216,Mujer,61,buenos aires,FDT,positivo,Buenos Aires
+217,Mujer,70,entre rios,FDT,positivo,Centro
+218,Mujer,39,ciudad autonoma de buenos aires,FDT,positivo,CABA
+219,Varón,45,la pampa,FDT,positivo,Patagonia
+220,Varón,50,san luis,FDT,positivo,Cuyo
+221,Varón,55,buenos aires,resto y provinciales,positivo,Buenos Aires
+222,Varón,54,la pampa,FDT,positivo,Patagonia
+223,Mujer,51,buenos aires,JxC y aliados,positivo,Buenos Aires
+224,Varón,59,san luis,resto y provinciales,positivo,Cuyo
+225,Varón,58,jujuy,resto y provinciales,positivo,NOA
+226,Varón,36,buenos aires,FDT,positivo,Buenos Aires
+227,Varón,33,corrientes,FDT,positivo,NEA
+228,Mujer,39,buenos aires,FDT,positivo,Buenos Aires
+229,Varón,43,buenos aires,resto y provinciales,positivo,Buenos Aires
+230,Varón,67,buenos aires,resto y provinciales,positivo,Buenos Aires
+231,Mujer,57,buenos aires,FDT,positivo,Buenos Aires
+232,Mujer,54,buenos aires,FDT,positivo,Buenos Aires
+233,Mujer,36,buenos aires,FDT,positivo,Buenos Aires
+234,Varón,45,rio negro,FDT,positivo,Patagonia
+235,Mujer,35,rio negro,FDT,positivo,Patagonia
+236,Mujer,45,buenos aires,JxC y aliados,positivo,Buenos Aires
+237,Varón,66,ciudad autonoma de buenos aires,resto y provinciales,positivo,CABA
+238,Varón,50,buenos aires,FDT,positivo,Buenos Aires
+239,Mujer,64,buenos aires,FDT,positivo,Buenos Aires
+240,Mujer,41,mendoza,FDT,positivo,Cuyo
+241,Mujer,41,buenos aires,FDT,positivo,Buenos Aires
+242,Varón,54,santa cruz,FDT,positivo,Patagonia
+243,Mujer,49,santa cruz,FDT,positivo,Patagonia
+244,Mujer,36,buenos aires,FDT,positivo,Buenos Aires
+245,Varón,41,neuquen,FDT,positivo,Patagonia
+246,Varón,52,buenos aires,JxC y aliados,positivo,Buenos Aires
+247,Varón,45,ciudad autonoma de buenos aires,resto y provinciales,positivo,CABA
+248,Mujer,63,buenos aires,FDT,positivo,Buenos Aires
+249,Varón,71,buenos aires,FDT,positivo,Buenos Aires
+250,Varón,54,tucuman,FDT,positivo,NOA
+251,Mujer,56,tierra del fuego,FDT,positivo,Patagonia
+252,Varón,57,misiones,FDT,negativo,NEA
+253,Varón,58,mendoza,resto y provinciales,negativo,Cuyo
+254,Varón,78,jujuy,FDT,negativo,NOA
+255,Mujer,56,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
+256,Mujer,32,buenos aires,FDT,negativo,Buenos Aires
+257,Mujer,46,ciudad autonoma de buenos aires,JxC y aliados,negativo,CABA
